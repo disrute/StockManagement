@@ -1,0 +1,11 @@
+/Users/lochlandenholm/Code/SIT771/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.deps.json
+/Users/lochlandenholm/Code/SIT771/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.json
+/Users/lochlandenholm/Code/SIT771/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.dev.json
+/Users/lochlandenholm/Code/SIT771/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.dll
+/Users/lochlandenholm/Code/SIT771/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/lochlandenholm/Code/SIT771/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csprojAssemblyReference.cache
+/Users/lochlandenholm/Code/SIT771/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csproj.CoreCompileInputs.cache
+/Users/lochlandenholm/Code/SIT771/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfoInputs.cache
+/Users/lochlandenholm/Code/SIT771/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfo.cs
+/Users/lochlandenholm/Code/SIT771/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.dll
+/Users/lochlandenholm/Code/SIT771/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.pdb
